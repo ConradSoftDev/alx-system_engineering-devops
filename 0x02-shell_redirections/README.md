@@ -1,1 +1,1 @@
-Hello, world file
+Hello world sctript
