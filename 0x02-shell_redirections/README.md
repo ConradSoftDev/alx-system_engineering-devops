@@ -1,1 +1,1 @@
-Confused smiley script
+Shell redirections
